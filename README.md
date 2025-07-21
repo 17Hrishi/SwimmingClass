@@ -1,4 +1,4 @@
-SwimmingClass  
+# SwimmingClass  
 [Live Demo](https://17hrishi.github.io/SwimmingClass/)  
 
 ### Description  
